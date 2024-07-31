@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Reinan Carvalho and I'm a Developer Back-End ,from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Reinan Carvalho and I'm a Developer Back-End, from Brazil.</h2>
 
 ###
 
